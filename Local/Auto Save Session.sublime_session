@@ -1,0 +1,2286 @@
+{
+	"folder_history":
+	[
+		"/C/Workspace/dummy/bariumBoxer",
+		"/C/Workspace/bariumBoxer",
+		"/C/Workspace/documentation-collector/integrationGuide",
+		"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content"
+	],
+	"last_version": 3176,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 497.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"hw",
+						"hwGpioPd"
+					],
+					[
+						"hwGpio",
+						"hwGpioPu"
+					],
+					[
+						"F",
+						"FALSE"
+					],
+					[
+						"code",
+						"codeComment"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"brack",
+						"BracketHighlighter: Settings"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #include <…>"
+					],
+					[
+						"git brnach",
+						"Git: Change Branch"
+					],
+					[
+						"git",
+						"Git: Change Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"revert",
+						"File: Revert"
+					]
+				],
+				"width": 420.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"git status",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Workspace/dummy/bariumBoxer/source/boot/bootMain.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/Common.c",
+				"/C/Workspace/dummy/bariumBoxer/source/app/scsrDpllHandler.c",
+				"/C/Workspace/dummy/bariumBoxer/source/app/pwmTask.c",
+				"/C/Workspace/dummy/bariumBoxer/include/app/pwmTask.h",
+				"/C/Workspace/dummy/bariumBoxer/source/app/todTask.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/drivers/PWM_DEC.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/controllers/eepromCommandController.c",
+				"/C/Workspace/dummy/bariumBoxer/include/common/controllers/eepromCommandController.h",
+				"/C/Workspace/dummy/bariumBoxer/Makefile",
+				"/C/Workspace/dummy/bariumBoxer/source/common/drivers/I2CM.c",
+				"/C/Workspace/dummy/bariumBoxer/include/common/core_cmFunc.h",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/.android/adbkey.pub",
+				"/C/Users/akornish/.android/adbkey",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/AdbWinUsbApi.dll",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/mke2fs.conf",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/TestScsrGeneration/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/TOD.h",
+				"/C/Workspace/dummy/bariumBoxer/source/app/dpllStateMachine.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsHelper.c",
+				"/C/Workspace/bariumBoxer/include/unitTests/unitTestsHelper.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/EEPROM.h",
+				"/C/Workspace/bariumBoxer/source/boot/appLoader.c",
+				"/C/Workspace/bariumBoxer/scripts/host2XmlSequentialRevB.py",
+				"/C/Workspace/bariumBoxer/source/boot/bootMain.c",
+				"/C/Workspace/bariumBoxer/source/common/Common.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/EEPROM.c",
+				"/C/Workspace/bariumBoxer/source/app/configuration.c",
+				"/C/Workspace/bariumBoxer/source/app/hotfixLoader.c",
+				"/C/Workspace/bariumBoxer_old/bin/cm-revB/revBRam_host.xml",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/bariumBoxer/include/common/Target.h",
+				"/C/Workspace/bariumBoxer/include/boot/appLoader.h",
+				"/C/Workspace/bariumBoxer/source/common/startup_cmx.c",
+				"/C/Workspace/bariumBoxer/.gitignore",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_misaligned.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_wip_1.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_WIP.txt",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/0/hotfix.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/revB.mk",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/GPIO.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/GPIO.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/4.0.2 vs 4.0.1/scsr_4.0.1.csv",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary.txt",
+				"/C/Users/akornish/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/BK6CJDF3/scsr_compare_summary.txt",
+				"/C/Users/akornish/Downloads/monitoring_param_task_hotfix_2.c",
+				"/C/Workspace/bariumBoxer/include/common/irq/clockmatrix/rev-b/irqTable.h",
+				"/C/Workspace/bariumBoxer/data/clockmatrix/scsr/scsr.xlsm",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsInput.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR.h",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/Desktop/hotfix_andi.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioAlertOut.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioTodNotification.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsScsrTriggerRegister1.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.ld",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.ld",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.out",
+				"/C/Workspace/bariumBoxer/source/app/gpioTask.c",
+				"/C/Workspace/bariumBoxer/source/app/scsrMonTask.c",
+				"/C/Workspace/backup/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsDpllStateMachineMisc.c",
+				"/C/Workspace/bariumBoxer/hotfix/cmfwInfo/text.txt",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.mk",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.mk",
+				"/C/Users/akornish/Intel/Logs/IntelSerialIO.log",
+				"/C/Users/akornish/Desktop/hotfix_andi_final.c",
+				"/C/Workspace/bariumBoxer/hotfix/source/hotfix.c",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO_USER_CONTROL.h",
+				"/D/BitLocker Recovery Key A9D6BFCD-4C6E-439B-B2F2-B3521FED4649.TXT",
+				"/C/Workspace/bariumBoxer/include/common/core_cm3.h",
+				"/C/Workspace/bariumBoxer/hotfix/include/hotfix.h",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_TOD.h",
+				"/C/Workspace/bariumBoxer/source/app/todTask.c",
+				"/C/Workspace/bariumBoxer/source/app/pwmTask.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/PWM_ENC.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_PWM_ENC.h",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_DPLL.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/TOD.c",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.map",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsTod.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/OTP.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/6/monitoring_param_task_hotfix.c",
+				"/C/Workspace/bariumBoxer/Makefile",
+				"/C/Workspace/bariumBoxer/include/app/uartTask.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/bariumBoxer/hotfix/Makefile",
+				"/C/Users/akornish/Desktop/hotfix.c",
+				"/C/Users/akornish/Desktop/monitoring_param_task_hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/3/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/2-2/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/1-2/hotfix.c",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/bariumBoxer-doc/firmwareArchitecture/firmwareArchitecture.eap",
+				"/Z/vcheng/Clock Matrix/ClockMatrix_FPGA_Board_Methodology.txt",
+				"/C/Users/akornish/AppData/Local/Temp/dtemp-404ff7d8247502437-20.dop/input05.txt",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Output/akornish/Temporary/pdf_allin/pdf_allin_328F92BD/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/hostOsAdaptation.htm",
+				"/C/Workspace/documentation-collector/referenceManual/referenceManual/Content/servoManagementApi.htm",
+				"/C/SWSetup/SP79018/readme.txt",
+				"/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/DiffView/DiffView.sublime-settings",
+				"/C/Users/akornish/.ssh/id_rsa.pub",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Workspace/documentationCollector/integrationGuide/README.txt",
+				"/C/vbox/ubuntu_idt_clone/New Text Document.txt",
+				"/C/Users/akornish/AppData/Local/Google/Chrome/User Data/Local State",
+				"/C/Users/akornish/AppData/Local/Temp/Temp1_bstrlib-master.zip/bstrlib-master/bstrlib.txt",
+				"/C/Program Files/Git/etc/vimrc"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 134.0,
+				"where_history":
+				[
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.h",
+					"<open folders>",
+					"<open folders>,*.h",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.h",
+					"<open folders>, *.h",
+					"<open folders>,*.h",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.c,*.h",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.ld",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"C:\\Workspace\\bariumBoxer\\source",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<current file>",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"PRIMASK",
+					"INCLUDE",
+					"CMFW_RELEASE_H_PATH",
+					"MIF_EXTERNAL_OUTPUT_FILES",
+					"HOTFIXDIR",
+					"SCSR_OTP_EEPROM_PWM_BUFF_0",
+					"SCSR_OTP_EEPROM_PWM_BUFF",
+					"Read_8_SCSR_EEPROM_SIZE_bytes",
+					"Read_7_SCSR_EEPROM_I2C_ADDR_i2c_addr",
+					"EEPROM_I2C_ADDR",
+					"tod_read_selection",
+					"pwm_decoder_index",
+					"encoder_id",
+					"ppsEnable",
+					"generate_pps",
+					"E_todIndex",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_RESET",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_MODE",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_LSB",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_MSB",
+					"SCSR_PWM_ENCODER_CNFG_PPS_SEL",
+					"tod_sel",
+					".globalSyncEn",
+					"dpllSmSetGlobalSyncEn",
+					"global_sync_en",
+					"get64Bit",
+					"SCSR_EEPROM_CONFIG_SELECT",
+					"SCSR_EEPROM_SCSR_CONFIG_SELECT",
+					"SCSR_OTP_SCSR_CONFIG_SELECT",
+					"T_OTP_ErrorCode",
+					"otp",
+					"SCSR_OTP_STATUS__0",
+					"OUTPUT_TDC_DEFAULT_ALIGNED_THR",
+					"align_threshold_count",
+					"xml",
+					"appLoaderFindHeaderInEeprom",
+					"EepromConfigFindHeader",
+					"CmnMemcmp",
+					"EeFindTagInEeprom",
+					"loadConfi",
+					"configLoad",
+					"eeAddr",
+					"EeFindDeviceAndTag",
+					"EeFindTagInEeprom",
+					"EepromConfigFindHeader",
+					"EEPROM_ADDR_STEP",
+					"EepromConfigFindHeader",
+					"appLoaderFindHeaderInEeprom",
+					"eepromAddress",
+					"appLoaderFindHeaderInEeprom",
+					"startEepromAddr",
+					"E_Boot_Stat_Eeprom_Found",
+					"appLoaderFindHeaderInEeprom",
+					"EEPROM_ADDR_STEP",
+					"SCSR_GPIO_TOD_TRIG",
+					"E_gpioFunction_inputClock",
+					"SCSR_DPLL_MANU_REF_CFG",
+					"SCSR_END",
+					"gpioSetPullDown",
+					"gpioSetPullUp",
+					"pd",
+					"stackless",
+					"pFunc",
+					"Reset_Handler",
+					"__StackTop",
+					"allTestsAreGood",
+					"T_validateGpioPuPdBit",
+					"hwGpioPu",
+					"else",
+					"scsrPuPdInitial",
+					"gpioSetMode",
+					"Write_1_SCSR_GPIO_CTRL",
+					"hwGpioMode",
+					"TEST_ACTUAL",
+					"hwGpioMode",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlGetMaskedGpioInput",
+					"gpioUserControlEnable",
+					"gpioUserControlInputBitfield",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlGetEnableBit",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlSetConfig",
+					"T_validateGpioUserControlGetEnableBit",
+					"T_validateGpioUserControlGetLevel",
+					"TEST_EXPECTED_ACTUAL_ARRAY_SIZE",
+					"T_validateGpioUserControlSetEnableBit",
+					"TEST_EXPECTED_ACTUAL_ARRAY_SIZE",
+					"testInputSelectGpioInputClock",
+					"Pretest",
+					"validateGpioUserControl",
+					"VALIDATE_GPIO_USER_CONTROL",
+					"GPIO",
+					"pd",
+					"hwGpioDirection",
+					"pd",
+					"&&",
+					"gpioUserControlEnable",
+					" testInputSelectGpioInputClock",
+					"scsrEnable[ TEST_EXPECTED ]         = TRUE",
+					"E_gpioFunction_userControl",
+					"testGpioUserControlGpioFunctionChanged",
+					"E_gpioFunction_losIndicator",
+					"testGpioUserControlGpioFunctionChanged",
+					"gpioSetMode",
+					"cmos_od_mode",
+					"testGpioUserControlSetConfigOutEnable",
+					"E_gpioDir_in",
+					"E_gpioDir_out",
+					"gpioSetDirection",
+					"E_gpioDir_in",
+					"gpioSetDirection",
+					"E_gpioDir_in",
+					"testGpioUserControlSetConfigOutEnable",
+					"unitTestSetGpioUserControlEnable",
+					"testGpioUserControlUpdateScsrStatus",
+					"cmos_od_mode",
+					"testGpioUserControlUpdateScsrStatus",
+					"testGpioUserControlSetEnableBit",
+					"testGpioUserControlInEnabledChangeGpDcIn",
+					"testGpioUserControlDisabledCleanup",
+					"scsrEnable[ TEST_EXPECTED ]",
+					"testGpioUserControlGpioFunctionChanged",
+					"E_gpioMode_gp",
+					"testGpioUserControlUpdateScsrStatus",
+					"TEST_EXPECTED",
+					"testGpioUserControlGetMaskedGpioOutput",
+					"testGpioUserControlSetEnableBit"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cmosOdMode",
+					"1",
+					"0",
+					"Read_1_SCSR_GPIO_CTRL_gpio_function_en",
+					"Read_1_SCSR_GPIO_CTRL_gpio_control_dir",
+					"Write_1_SCSR_GPIO_CTRL_gpio_control_dir",
+					"Write_1_SCSR_GPIO_CTRL_gpio_function_en",
+					"E_gpioDir_in",
+					"<pre class=\"codeComment\">",
+					"timestamping",
+					"Returns",
+					"/*",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"appm",
+						"source\\app\\appMain.c"
+					],
+					[
+						"I2C",
+						"source\\common\\drivers\\I2CM.c"
+					],
+					[
+						"makefile",
+						"Makefile"
+					],
+					[
+						"tod",
+						"include\\common\\drivers\\TOD.h"
+					],
+					[
+						"comm",
+						"source\\common\\Common.c"
+					],
+					[
+						"start",
+						"source\\common\\startup_cmx.c"
+					],
+					[
+						"scsr.",
+						"data\\clockmatrix\\scsr\\scsr.xlsm"
+					],
+					[
+						"GPIO.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"unitTestsGpioUserControl.c",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"boot",
+						"source\\boot\\bootMain.c"
+					],
+					[
+						"unitTestsGpioAlertOut.c",
+						"source\\unitTests\\unitTestsGpioAlertOut.c"
+					],
+					[
+						".txt",
+						"hotfix\\cmfwInfo\\text.txt"
+					],
+					[
+						".ld",
+						"build\\clockmatrix\\revB\\ramApp\\revBRamApp.ld"
+					],
+					[
+						"unitTestsGpioUserControl",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"gpio.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"hotfix.h",
+						"hotfix\\include\\hotfix.h"
+					],
+					[
+						"hotfix.c",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"hotfi",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"uarttask",
+						"include\\app\\uartTask.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 971.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"hw",
+						"hwGpioPd"
+					],
+					[
+						"hwGpio",
+						"hwGpioPu"
+					],
+					[
+						"F",
+						"FALSE"
+					],
+					[
+						"code",
+						"codeComment"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/app/appMain.c",
+					"settings":
+					{
+						"buffer_size": 16412,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"brack",
+						"BracketHighlighter: Settings"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #include <…>"
+					],
+					[
+						"git brnach",
+						"Git: Change Branch"
+					],
+					[
+						"git",
+						"Git: Change Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"revert",
+						"File: Revert"
+					]
+				],
+				"width": 420.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"git status",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Workspace/dummy/bariumBoxer",
+				"/C/Workspace/dummy/bariumBoxer/source",
+				"/C/Workspace/dummy/bariumBoxer/source/common",
+				"/C/Workspace/dummy/bariumBoxer/source/common/drivers"
+			],
+			"file_history":
+			[
+				"/C/Workspace/dummy/bariumBoxer/source/boot/bootMain.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/Common.c",
+				"/C/Workspace/dummy/bariumBoxer/source/app/scsrDpllHandler.c",
+				"/C/Workspace/dummy/bariumBoxer/source/app/pwmTask.c",
+				"/C/Workspace/dummy/bariumBoxer/include/app/pwmTask.h",
+				"/C/Workspace/dummy/bariumBoxer/source/app/todTask.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/drivers/PWM_DEC.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/controllers/eepromCommandController.c",
+				"/C/Workspace/dummy/bariumBoxer/include/common/controllers/eepromCommandController.h",
+				"/C/Workspace/dummy/bariumBoxer/Makefile",
+				"/C/Workspace/dummy/bariumBoxer/source/common/drivers/I2CM.c",
+				"/C/Workspace/dummy/bariumBoxer/include/common/core_cmFunc.h",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/.android/adbkey.pub",
+				"/C/Users/akornish/.android/adbkey",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/AdbWinUsbApi.dll",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/mke2fs.conf",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/TestScsrGeneration/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/TOD.h",
+				"/C/Workspace/dummy/bariumBoxer/source/app/dpllStateMachine.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsHelper.c",
+				"/C/Workspace/bariumBoxer/include/unitTests/unitTestsHelper.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/EEPROM.h",
+				"/C/Workspace/bariumBoxer/source/boot/appLoader.c",
+				"/C/Workspace/bariumBoxer/scripts/host2XmlSequentialRevB.py",
+				"/C/Workspace/bariumBoxer/source/boot/bootMain.c",
+				"/C/Workspace/bariumBoxer/source/common/Common.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/EEPROM.c",
+				"/C/Workspace/bariumBoxer/source/app/configuration.c",
+				"/C/Workspace/bariumBoxer/source/app/hotfixLoader.c",
+				"/C/Workspace/bariumBoxer_old/bin/cm-revB/revBRam_host.xml",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/bariumBoxer/include/common/Target.h",
+				"/C/Workspace/bariumBoxer/include/boot/appLoader.h",
+				"/C/Workspace/bariumBoxer/source/common/startup_cmx.c",
+				"/C/Workspace/bariumBoxer/.gitignore",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_misaligned.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_wip_1.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_WIP.txt",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/0/hotfix.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/revB.mk",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/GPIO.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/GPIO.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/4.0.2 vs 4.0.1/scsr_4.0.1.csv",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary.txt",
+				"/C/Users/akornish/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/BK6CJDF3/scsr_compare_summary.txt",
+				"/C/Users/akornish/Downloads/monitoring_param_task_hotfix_2.c",
+				"/C/Workspace/bariumBoxer/include/common/irq/clockmatrix/rev-b/irqTable.h",
+				"/C/Workspace/bariumBoxer/data/clockmatrix/scsr/scsr.xlsm",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsInput.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR.h",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/Desktop/hotfix_andi.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioAlertOut.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioTodNotification.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsScsrTriggerRegister1.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.ld",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.ld",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.out",
+				"/C/Workspace/bariumBoxer/source/app/gpioTask.c",
+				"/C/Workspace/bariumBoxer/source/app/scsrMonTask.c",
+				"/C/Workspace/backup/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsDpllStateMachineMisc.c",
+				"/C/Workspace/bariumBoxer/hotfix/cmfwInfo/text.txt",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.mk",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.mk",
+				"/C/Users/akornish/Intel/Logs/IntelSerialIO.log",
+				"/C/Users/akornish/Desktop/hotfix_andi_final.c",
+				"/C/Workspace/bariumBoxer/hotfix/source/hotfix.c",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO_USER_CONTROL.h",
+				"/D/BitLocker Recovery Key A9D6BFCD-4C6E-439B-B2F2-B3521FED4649.TXT",
+				"/C/Workspace/bariumBoxer/include/common/core_cm3.h",
+				"/C/Workspace/bariumBoxer/hotfix/include/hotfix.h",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_TOD.h",
+				"/C/Workspace/bariumBoxer/source/app/todTask.c",
+				"/C/Workspace/bariumBoxer/source/app/pwmTask.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/PWM_ENC.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_PWM_ENC.h",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_DPLL.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/TOD.c",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.map",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsTod.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/OTP.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/6/monitoring_param_task_hotfix.c",
+				"/C/Workspace/bariumBoxer/Makefile",
+				"/C/Workspace/bariumBoxer/include/app/uartTask.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/bariumBoxer/hotfix/Makefile",
+				"/C/Users/akornish/Desktop/hotfix.c",
+				"/C/Users/akornish/Desktop/monitoring_param_task_hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/3/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/2-2/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/1-2/hotfix.c",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/bariumBoxer-doc/firmwareArchitecture/firmwareArchitecture.eap",
+				"/Z/vcheng/Clock Matrix/ClockMatrix_FPGA_Board_Methodology.txt",
+				"/C/Users/akornish/AppData/Local/Temp/dtemp-404ff7d8247502437-20.dop/input05.txt",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Output/akornish/Temporary/pdf_allin/pdf_allin_328F92BD/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/hostOsAdaptation.htm",
+				"/C/Workspace/documentation-collector/referenceManual/referenceManual/Content/servoManagementApi.htm",
+				"/C/SWSetup/SP79018/readme.txt",
+				"/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/DiffView/DiffView.sublime-settings",
+				"/C/Users/akornish/.ssh/id_rsa.pub",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Workspace/documentationCollector/integrationGuide/README.txt",
+				"/C/vbox/ubuntu_idt_clone/New Text Document.txt",
+				"/C/Users/akornish/AppData/Local/Google/Chrome/User Data/Local State",
+				"/C/Users/akornish/AppData/Local/Temp/Temp1_bstrlib-master.zip/bstrlib-master/bstrlib.txt",
+				"/C/Program Files/Git/etc/vimrc"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 134.0,
+				"where_history":
+				[
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.h",
+					"<open folders>",
+					"<open folders>,*.h",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.h",
+					"<open folders>, *.h",
+					"<open folders>,*.h",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.c,*.h",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.ld",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"C:\\Workspace\\bariumBoxer\\source",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<current file>",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"PRIMASK",
+					"INCLUDE",
+					"CMFW_RELEASE_H_PATH",
+					"MIF_EXTERNAL_OUTPUT_FILES",
+					"HOTFIXDIR",
+					"SCSR_OTP_EEPROM_PWM_BUFF_0",
+					"SCSR_OTP_EEPROM_PWM_BUFF",
+					"Read_8_SCSR_EEPROM_SIZE_bytes",
+					"Read_7_SCSR_EEPROM_I2C_ADDR_i2c_addr",
+					"EEPROM_I2C_ADDR",
+					"tod_read_selection",
+					"pwm_decoder_index",
+					"encoder_id",
+					"ppsEnable",
+					"generate_pps",
+					"E_todIndex",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_RESET",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_MODE",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_LSB",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_MSB",
+					"SCSR_PWM_ENCODER_CNFG_PPS_SEL",
+					"tod_sel",
+					".globalSyncEn",
+					"dpllSmSetGlobalSyncEn",
+					"global_sync_en",
+					"get64Bit",
+					"SCSR_EEPROM_CONFIG_SELECT",
+					"SCSR_EEPROM_SCSR_CONFIG_SELECT",
+					"SCSR_OTP_SCSR_CONFIG_SELECT",
+					"T_OTP_ErrorCode",
+					"otp",
+					"SCSR_OTP_STATUS__0",
+					"OUTPUT_TDC_DEFAULT_ALIGNED_THR",
+					"align_threshold_count",
+					"xml",
+					"appLoaderFindHeaderInEeprom",
+					"EepromConfigFindHeader",
+					"CmnMemcmp",
+					"EeFindTagInEeprom",
+					"loadConfi",
+					"configLoad",
+					"eeAddr",
+					"EeFindDeviceAndTag",
+					"EeFindTagInEeprom",
+					"EepromConfigFindHeader",
+					"EEPROM_ADDR_STEP",
+					"EepromConfigFindHeader",
+					"appLoaderFindHeaderInEeprom",
+					"eepromAddress",
+					"appLoaderFindHeaderInEeprom",
+					"startEepromAddr",
+					"E_Boot_Stat_Eeprom_Found",
+					"appLoaderFindHeaderInEeprom",
+					"EEPROM_ADDR_STEP",
+					"SCSR_GPIO_TOD_TRIG",
+					"E_gpioFunction_inputClock",
+					"SCSR_DPLL_MANU_REF_CFG",
+					"SCSR_END",
+					"gpioSetPullDown",
+					"gpioSetPullUp",
+					"pd",
+					"stackless",
+					"pFunc",
+					"Reset_Handler",
+					"__StackTop",
+					"allTestsAreGood",
+					"T_validateGpioPuPdBit",
+					"hwGpioPu",
+					"else",
+					"scsrPuPdInitial",
+					"gpioSetMode",
+					"Write_1_SCSR_GPIO_CTRL",
+					"hwGpioMode",
+					"TEST_ACTUAL",
+					"hwGpioMode",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlGetMaskedGpioInput",
+					"gpioUserControlEnable",
+					"gpioUserControlInputBitfield",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlGetEnableBit",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlSetConfig",
+					"T_validateGpioUserControlGetEnableBit",
+					"T_validateGpioUserControlGetLevel",
+					"TEST_EXPECTED_ACTUAL_ARRAY_SIZE",
+					"T_validateGpioUserControlSetEnableBit",
+					"TEST_EXPECTED_ACTUAL_ARRAY_SIZE",
+					"testInputSelectGpioInputClock",
+					"Pretest",
+					"validateGpioUserControl",
+					"VALIDATE_GPIO_USER_CONTROL",
+					"GPIO",
+					"pd",
+					"hwGpioDirection",
+					"pd",
+					"&&",
+					"gpioUserControlEnable",
+					" testInputSelectGpioInputClock",
+					"scsrEnable[ TEST_EXPECTED ]         = TRUE",
+					"E_gpioFunction_userControl",
+					"testGpioUserControlGpioFunctionChanged",
+					"E_gpioFunction_losIndicator",
+					"testGpioUserControlGpioFunctionChanged",
+					"gpioSetMode",
+					"cmos_od_mode",
+					"testGpioUserControlSetConfigOutEnable",
+					"E_gpioDir_in",
+					"E_gpioDir_out",
+					"gpioSetDirection",
+					"E_gpioDir_in",
+					"gpioSetDirection",
+					"E_gpioDir_in",
+					"testGpioUserControlSetConfigOutEnable",
+					"unitTestSetGpioUserControlEnable",
+					"testGpioUserControlUpdateScsrStatus",
+					"cmos_od_mode",
+					"testGpioUserControlUpdateScsrStatus",
+					"testGpioUserControlSetEnableBit",
+					"testGpioUserControlInEnabledChangeGpDcIn",
+					"testGpioUserControlDisabledCleanup",
+					"scsrEnable[ TEST_EXPECTED ]",
+					"testGpioUserControlGpioFunctionChanged",
+					"E_gpioMode_gp",
+					"testGpioUserControlUpdateScsrStatus",
+					"TEST_EXPECTED",
+					"testGpioUserControlGetMaskedGpioOutput",
+					"testGpioUserControlSetEnableBit"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cmosOdMode",
+					"1",
+					"0",
+					"Read_1_SCSR_GPIO_CTRL_gpio_function_en",
+					"Read_1_SCSR_GPIO_CTRL_gpio_control_dir",
+					"Write_1_SCSR_GPIO_CTRL_gpio_control_dir",
+					"Write_1_SCSR_GPIO_CTRL_gpio_function_en",
+					"E_gpioDir_in",
+					"<pre class=\"codeComment\">",
+					"timestamping",
+					"Returns",
+					"/*",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/app/appMain.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16412,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3398,
+										3398
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"origPos":
+									[
+										0.0,
+										1400.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1400.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,610,1839,54,2826",
+			"project": "cm.sublime-project",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"appm",
+						"source\\app\\appMain.c"
+					],
+					[
+						"I2C",
+						"source\\common\\drivers\\I2CM.c"
+					],
+					[
+						"makefile",
+						"Makefile"
+					],
+					[
+						"tod",
+						"include\\common\\drivers\\TOD.h"
+					],
+					[
+						"comm",
+						"source\\common\\Common.c"
+					],
+					[
+						"start",
+						"source\\common\\startup_cmx.c"
+					],
+					[
+						"scsr.",
+						"data\\clockmatrix\\scsr\\scsr.xlsm"
+					],
+					[
+						"GPIO.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"unitTestsGpioUserControl.c",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"boot",
+						"source\\boot\\bootMain.c"
+					],
+					[
+						"unitTestsGpioAlertOut.c",
+						"source\\unitTests\\unitTestsGpioAlertOut.c"
+					],
+					[
+						".txt",
+						"hotfix\\cmfwInfo\\text.txt"
+					],
+					[
+						".ld",
+						"build\\clockmatrix\\revB\\ramApp\\revBRamApp.ld"
+					],
+					[
+						"unitTestsGpioUserControl",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"gpio.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"hotfix.h",
+						"hotfix\\include\\hotfix.h"
+					],
+					[
+						"hotfix.c",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"hotfi",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"uarttask",
+						"include\\app\\uartTask.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 10,
+			"workspace_name": "/C/Users/akornish/Documents/sublime/cm.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"hw",
+						"hwGpioPd"
+					],
+					[
+						"hwGpio",
+						"hwGpioPu"
+					],
+					[
+						"F",
+						"FALSE"
+					],
+					[
+						"code",
+						"codeComment"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "{\n    // Debug logging\n    \"debug_enable\": false,\n\n    // When only either the left or right bracket can be found\n    // this defines if the unmatched bracket should be shown.\n    \"show_unmatched\": true,\n\n    // Do the opposite of \"show_unmatched\" for the languages listed below\n    \"show_unmatched_exceptions\": [],\n\n    // Enable high visibility by default when sublime starts up\n    // If sublime is already running and this gets changed,\n    // you will not see any changes (restart required to see change)\n    \"high_visibility_enabled_by_default\": false,\n\n    // Experimental: Creates a visible bar at the beginning of all lines between\n    // multiline bracket spans.\n    \"content_highlight_bar\": false,\n\n    // Show hover popup\n    // This will show a hover popup when mousing over\n    // the visible bracket if the other\n    // highlighted matching bracket is off screen.\n    // It will show line text of the off screen bracket -/+ 128 chars\n    // from the bracket start and end points.\n    // A link will be available allowing the user to click and jump to\n    // the other bracket.\n    \"show_offscreen_bracket_popup\": true,\n\n    // If enabled with `show_offscreen_bracket_popup`,the popup will be shown\n    // even if brackets are onscreen.\n    \"show_bracket_popup_always\": false,\n\n    // Adjust char per line context of bracket popup.\n    \"popup_char_context\": 120,\n\n    // Adjust number of lines of additional context\n    // that are shown when brackets are vertically off screen.\n    // Specified line count is split to context before and after the target line.\n    // So a value of 4 would give you two lines of context before and two lines after.\n    \"popup_line_context\": 2,\n\n    // Experimental: Use 'popup_bracket_emphasis' to customize the popup's bracket emphasis color\n    \"use_custom_popup_bracket_emphasis\": false,\n\n    // Experimental: Specify the scope (to get color) to emphasize the off screen bracket\n    // in popups.  Alternatively you can use a hex value in the form '#rgb' or '#rrggbb'.\n    \"popup_bracket_emphasis\": \"keyword\",\n\n    // Experimental: Align the content highlight bar at the bracket indent level\n    \"align_content_highlight_bar\": false,\n\n    // Experimental: Allow bracket highlighter to search in widgets.\n    // Most widgets use Plain Text which BH should ignore,\n    // But regex find views views are usually regular expression\n    // Which should be the only views to trigger BH.\n    \"search_in_widgets\": false,\n\n    // Show brackets in the minimap.\n    // Depending on your highlight style, regions may not be visible in minimap.\n    // \"underline\" won't show up due to it being a style consisting of\n    // multiple zero width selections to create a fat underline.\n    // But the following styles should show up fine as they are normal regions styles:\n    //     - thin_underline\n    //     - solid\n    //     - outline\n    //     - squiggly\n    //     - stippled\n    \"show_in_minimap\": false,\n\n    // High visibility style and color for high visibility mode\n    // (solid|outline|underline)\n    // ST3 has additional options of (thin_underline|squiggly|stippled)\n    \"high_visibility_style\": \"outline\",\n\n    // (scope|__default__|__bracket__)\n    \"high_visibility_color\": \"__bracket__\",\n\n    // Match brackets only when the cursor is touching the inside of the bracket\n    \"match_only_adjacent\": false,\n\n    // Outside adjacent bracket matching\n    \"bracket_outside_adjacent\": true,\n\n    // Experimental: Special matching mode for block cursor.\n    // Essentially, this provides a matching mode that makes a little more\n    // sense to some in regards to the visual representation of block cursors.\n    // This will ignore \"bracket_outside_adjacent\".\n    \"block_cursor_mode\": false,\n\n    // When \"bracket_outside_adjacet\" is set, and a plugin command explicitly sets\n    // \"no_outside_adj\" to \"None\" instead of \"true\" or the default \"false\",\n    // this value will be used.\n    \"ignore_outside_adjacent_in_plugin\": true,\n\n    // When \"block_cursor_mode\" is set, and a plugin command explicitly sets\n    // \"no_block_mode\" to \"None\" instead of \"true\" or the default \"false\",\n    // this value will be used.\n    \"ignore_block_mode_in_plugin\": true,\n\n    // Character threshold to search\n    \"search_threshold\": 5000,\n\n    // Ignore threshold\n    \"ignore_threshold\": false,\n\n    // Set mode for string escapes to ignore (regex|string)\n    \"bracket_string_escape_mode\": \"string\",\n\n    // Set max number of multi-select brackets that will be searched automatically\n    \"auto_selection_threshold\" : 10,\n\n    // Enable this to completely kill highlighting if \"auto_selection_threshold\"\n    // is exceeded.  Default is to highlight up to the \"auto_selection_threshold\".\n    \"kill_highlight_on_threshold\": true,\n\n    // Disable gutter icons when doing multi-select\n    \"no_multi_select_icons\": false,\n\n    // Rules that define the finding and matching of brackets\n    // that are contained in a common scope.\n    // Useful for bracket pairs that are the same but\n    // share a common scope.  Brackets are found by\n    // Finding the extent of the scope and using regex\n    // to look at the beginning and end to identify bracket.\n    // Use only if they cannot be targeted with traditional bracket\n    // rules.\n    \"scope_brackets\": [\n        // Quotes\n        {\n            \"name\": \"py_single_quote\",\n            \"open\": \"(?:u|b|f)?r?((?:'')?')\",\n            \"close\": \"((?:'')?')\",\n            \"style\": \"single_quote\",\n            \"scopes\": [\"string\", \"meta.string\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\n                \"Python\",\n                \"PythonImproved\",\n                \"MagicPython\"\n            ],\n            \"sub_bracket_search\": \"true\",\n            \"plugin_library\": \"bh_modules.pyquotes\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"py_double_quote\",\n            \"open\": \"(?:u|b|f)?r?((?:\\\"\\\")?\\\")\",\n            \"close\": \"((?:\\\"\\\")?\\\")\",\n            \"style\": \"double_quote\",\n            \"scopes\": [\"string\", \"meta.string\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\n                \"Python\",\n                \"PythonImproved\",\n                \"MagicPython\"\n            ],\n            \"sub_bracket_search\": \"true\",\n            \"plugin_library\": \"bh_modules.pyquotes\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"csharp_double_quote\",\n            \"open\": \"\\\\$?@?(\\\")\",\n            \"close\": \"(\\\")\",\n            \"style\": \"double_quote\",\n            \"scopes\": [\"string.quoted.double\", \"meta.string.interpolated\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"C#\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"single_quote\",\n            \"open\": \"(')\",\n            \"close\": \"(')\",\n            \"style\": \"single_quote\",\n            \"scopes\": [\"string\", \"string.quoted\"],\n            \"language_filter\": \"blacklist\",\n            \"language_list\": [\"Plain text\", \"Hex\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"double_quote\",\n            \"open\": \"(\\\")\",\n            \"close\": \"(\\\")\",\n            \"style\": \"double_quote\",\n            \"scopes\": [\"string\", \"string.quoted\"],\n            \"language_filter\": \"blacklist\",\n            \"language_list\": [\"Plain text\", \"Hex\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"backtick_quote\",\n            \"open\": \"(`)\",\n            \"close\": \"(`)\",\n            \"style\": \"single_quote\",\n            \"scopes\": [\n                \"string.interpolated.ruby\",\n                \"string.interpolated.backtick.shell\",\n                \"string.template-string.js\",\n                \"string.template.js, meta.template.expression.js\"\n            ],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Ruby\", \"Shell-Unix-Generic\", \"JavaScript\", \"JavaScriptNext\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        // Regex for different Languages\n        {\n            \"name\": \"jsregex\",\n            \"open\": \" *(/)\",\n            \"close\": \"(/)[igm]*\",\n            \"style\": \"regex\",\n            \"scopes\": [\"string\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"JavaScript\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"perlregex\",\n            \"open\": \"(?:m|s|tr)(.|\\n)\",\n            \"close\": \"(.|\\n)(?:[igmos]*)\",\n            \"style\": \"regex\",\n            \"scopes\": [\"string.regexp\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Perl\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"rubyregex\",\n            \"open\": \" *(/)\",\n            \"close\": \"(/)[imxo]*\",\n            \"style\": \"regex\",\n            \"scopes\": [\"string\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Ruby\", \"RSpec\", \"Better RSpec\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        // Markdown\n        {\n            \"name\": \"mditalic\",\n            \"open\": \"(\\\\*|_)\",\n            \"close\": \"(\\\\*|_)\",\n            \"style\": \"default\",\n            \"scopes\": [\"markup.italic\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Markdown\", \"Multimarkdown\", \"GithubFlavoredMarkdown\", \"Markdown Extended\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"mdbold\",\n            \"open\": \"(\\\\*\\\\*|__)\",\n            \"close\": \"(\\\\*\\\\*|__)\",\n            \"style\": \"default\",\n            \"scopes\": [\"markup.bold\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Markdown\", \"Multimarkdown\", \"GithubFlavoredMarkdown\", \"Markdown Extended\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"mdcodeinline\",\n            \"open\": \"(`+)\",\n            \"close\": \"(`+)\",\n            \"style\": \"default\",\n            \"scopes\": [\"markup.raw.inline.markdown\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Markdown\", \"Multimarkdown\", \"GithubFlavoredMarkdown\", \"Markdown Extended\"],\n            \"sub_bracket_search\": \"true\",\n            \"plugin_library\": \"bh_modules.mdcode\",\n            \"enabled\": true\n        },\n        {\n            \"name\": \"mdcodeblock\",\n            \"open\": \"\\\\s*(`{3,}|~{3,})\",\n            \"close\": \"(`{3,}|~{3,})\\\\n?\",\n            \"style\": \"default\",\n            \"scopes\": [\"markup.raw.block.fenced.markdown, markup.raw.block.markdown.fenced\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Markdown\", \"Multimarkdown\", \"GithubFlavoredMarkdown\", \"Markdown Extended\"],\n            \"plugin_library\": \"bh_modules.mdcode\",\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        // LaTeX\n        {\n            \"name\": \"latexmath_inline\",\n            \"open\": \"(\\\\$)\",\n            \"close\": \"(\\\\$)\",\n            \"style\": \"default\",\n            \"scopes\": [\"string.other.math.tex\", \"meta.environment.math.inline.dollar.latex\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"LaTeX\", \"LaTeX (TikZ)\", \"knitr (Rnw)\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        }\n    ],\n\n    // Rule definitions for finding and matching brackets.\n    // Brackets are found by using regex and can use scope\n    // qualifiers exclude certain matches.\n    // Once all matches are found, the closest pair surrounding\n    // the cursor are selected.\n    \"brackets\": [\n        // Basic brackets\n        {\n            \"name\": \"curly\",\n            \"open\": \"(\\\\{)\",\n            \"close\": \"(\\\\})\",\n            \"style\": \"curly\",\n            \"scope_exclude\": [\n                \"string\",\n                \"comment\",\n                \"source.regexp constant.character.escape\",\n                \"source.yaml-tmlanguage constant.character.escape\"\n            ],\n            \"scope_exclude_exceptions\": [\"text.tex string.other.math\"],\n            \"language_filter\": \"blacklist\",\n            \"language_list\": [\"Plain text\", \"Hex\"],\n            \"find_in_sub_search\": \"true\",\n            \"ignore_string_escape\": true,\n            \"enabled\": true\n        },\n        {\n            \"name\": \"round\",\n            \"open\": \"(\\\\()\",\n            \"close\": \"(\\\\))\",\n            \"style\": \"round\",\n            \"scope_exclude_exceptions\": [\n                \"text.tex string.other.math\",\n                \"punctuation.definition.string.begin.shell\",\n                \"punctuation.definition.string.end.shell\"\n            ],\n            \"scope_exclude\": [\n                \"string\",\n                \"comment\",\n                \"source.regexp constant.character.escape\",\n                \"punctuation.definition.case-pattern.shell\",\n                \"source.yaml-tmlanguage constant.character.escape\"\n            ],\n            \"language_filter\": \"blacklist\",\n            \"language_list\": [\"Plain text\", \"Hex\", \"RTF\"],\n            \"find_in_sub_search\": \"true\",\n            \"ignore_string_escape\": true,\n            \"enabled\": true\n        },\n        {\n            \"name\": \"square\",\n            \"open\": \"(\\\\[)\",\n            \"close\": \"(\\\\])\",\n            \"style\": \"square\",\n            \"scope_exclude\": [\n                \"string\",\n                \"source.regexp constant.character.escape\",\n                \"comment\"\n            ],\n            \"scope_exclude_exceptions\": [\"text.tex string.other.math\", \"source.yaml-tmlanguage meta.value -constant.character.escape\"],\n            \"language_filter\": \"blacklist\",\n            \"language_list\": [\"Plain text\", \"Hex\", \"RTF\"],\n            \"find_in_sub_search\": \"true\",\n            \"ignore_string_escape\": true,\n            \"enabled\": true\n        },\n        // PHP Angle\n        {\n            \"name\": \"php_angle\",\n            \"open\": \"(<\\\\?)(?:php)?\",\n            \"close\": \"(\\\\?>)\",\n            \"style\": \"angle\",\n            \"scope_exclude\": [\"string\", \"comment\", \"keyword.operator\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"HTML\", \"HTML 5\"],\n            \"enabled\": true\n        },\n        // Angle\n        {\n            \"name\": \"angle\",\n            \"open\": \"(<)(?=[^?%]|$)\",\n            \"close\": \"(?:(?<=[^?%])|(?<=^))(>)\",\n            \"style\": \"angle\",\n            \"scope_exclude\": [\n                \"string\",\n                \"comment\",\n                \"keyword.operator\",\n                \"source.ruby.rails.embedded.html\",\n                \"source.ruby.embedded.html\",\n                \"storage.type.function.arrow.js\",\n                \"punctuation.accessor.php\",\n                \"punctuation.accessor.arrow.php\",\n                \"source.php meta.embedded.html punctuation.section.embedded.begin.php\",\n                \"source.php meta.embedded.js punctuation.section.embedded.begin.php\",\n                \"source.php meta.embedded.css punctuation.section.embedded.begin.php\"\n            ],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\n                \"HTML\",\n                \"HTML 5\",\n                \"XML\",\n                \"PHP\",\n                \"HTML (Rails)\",\n                \"HTML (Jinja Templates)\",\n                \"HTML (Jinja2)\",\n                \"HTML (Twig)\",\n                \"HTML (Django)\",\n                \"HTML+CFML\",\n                \"ColdFusion\",\n                \"ColdFusionCFC\",\n                \"laravel-blade\",\n                \"blade\",\n                \"Handlebars\",\n                \"AngularJS\",\n                \"Java Server Pages (JSP)\"\n            ],\n            \"plugin_library\": \"bh_modules.tags\",\n            \"enabled\": true\n        },\n        // CSSedit groups\n        {\n            \"name\": \"cssedit_groups\",\n            \"open\": \"(/\\\\* *@group .*\\\\*/)\",\n            \"close\": \"(/\\\\* *@end *\\\\*/)\",\n            \"style\": \"default\",\n            \"scope_exclude\": [],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"CSS\"],\n            \"enabled\": true\n        },\n        // Ruby embedded HTML\n        // !!! May conflict with 'php_keywords' if enabled in same file !!!\n        {\n            \"name\": \"ruby_embedded_html\",\n            \"open\": \"((?:(?<=<%)|(?<=^)|(?<==)|(?<=<<))\\\\s*\\\\b(?:if|begin|case)\\\\b(?!:)|(?:(?<=<%)|(?<=^))\\\\s*(?:(?:private|public|protected)\\\\s*)?def\\\\b[\\\\p{Ll}\\\\p{Lu}]*\\\\b(?!:)|(?:(?<=<%)|(?<=^))\\\\s*\\\\b(?:for|until|unless|while|class|module)\\\\b(?!:)|(?<!:)\\\\bdo\\\\b(?!:)|(?<=return)\\\\s*\\\\b(?:begin|case|for|until|while|class|module)\\\\b(?!:))\",\n            \"close\": \"(?<=[\\\\s;])(end)\\\\b(?!:)\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"text.html\", \"source\", \"comment\", \"string\"],\n            \"scope_exclude_exceptions\": [\n                \"source.ruby.rails.embedded.html -comment -string\",\n                \"source.ruby.embedded.html -comment -string\"\n            ],\n            \"plugin_library\": \"bh_modules.rubykeywords\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"HTML\", \"HTML 5\", \"HTML (Rails)\"],\n            \"enabled\": true\n        },\n        // Ruby conditional statements\n        {\n            \"name\": \"ruby\",\n            \"open\": \"((?:(?<=^)|(?<==)|(?<=<<))\\\\s*\\\\b(?:if|begin|case)\\\\b(?!:)|^\\\\s*(?:(?:private|public|protected)\\\\s*)?def\\\\b[\\\\p{Ll}\\\\p{Lu}]*\\\\b(?!:)|^\\\\s*\\\\b(?:for|until|unless|while|class|module)\\\\b(?!:)|(?<!:)\\\\bdo\\\\b(?!:)|(?<=return)\\\\s*\\\\b(?:begin|case|for|until|while|class|module)\\\\b(?!:))\",\n            \"close\": \"(?<=[\\\\s;])(end)\\\\b(?!:)\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"plugin_library\": \"bh_modules.rubykeywords\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Ruby\", \"RSpec\", \"Better RSpec\", \"Ruby on Rails\"],\n            \"enabled\": true\n        },\n        // C/C++ compile switches\n        {\n            \"name\": \"c_compile_switch\",\n            \"open\": \"\\\\#[ \\\\t]*(if|ifdef|ifndef)\\\\b\",\n            \"close\": \"\\\\#[ \\\\t]*(endif)\\\\b\",\n            \"style\": \"c_define\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"C++\", \"C\", \"Objective-C++\", \"Objective-C\", \"CCpp\", \"C Improved\"],\n            \"enabled\": true\n        },\n        // PHP conditional keywords\n        // !!! May conflict with 'ruby_embedded_html' if enabled in same file !!!\n        {\n            \"name\": \"php_keywords\",\n            \"open\": \"(?:(?<=^)|(?<=<\\\\?php)|(?<=<\\\\?))\\\\s*(if|foreach|for|while|switch)\\\\b(?=.*?\\\\)\\\\s*:\\\\s*(?://.*?|/\\\\*.*?\\\\*/\\\\s*?)?(?:\\\\?>|$))\",\n            \"close\": \"(?:(?<=^)|(?<=<\\\\?php)|(?<=<\\\\?))\\\\s*(endif|endfor|endforeach|endwhile|endswitch)\\\\b(?=\\\\s*(?:;|;?\\\\?>))\",\n            \"style\": \"default\",\n            \"language_filter\": \"whitelist\",\n            \"scope_exclude\": [\"string\", \"comment\", \"text.html\"],\n            \"scope_exclude_exceptions\": [\n                \"source.php -comment -string\"\n            ],\n            \"plugin_library\": \"bh_modules.phpkeywords\",\n            \"language_list\": [\n                \"HTML\",\n                \"HTML 5\",\n                \"PHP\",\n                \"HTML+CFML\",\n                \"ColdFusion\",\n                \"ColdFusionCFC\"\n            ],\n            \"enabled\": true\n        },\n        // Erlang conditional statements\n        {\n            \"name\": \"erlang\",\n            \"open\": \"\\\\s*(\\\\b(?:if|case|begin|try|fun(?=\\\\s*\\\\()|receive)\\\\b)\",\n            \"close\": \"\\\\b(end)\\\\b\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"language_filter\": \"whitelist\",\n            \"plugin_library\": \"bh_modules.lowercase\",\n            \"language_list\": [\"Erlang\", \"HTML (Erlang)\"],\n            \"enabled\": true\n        },\n        //Bash\n        {\n            \"name\": \"bash\",\n            \"open\": \"(?:(?<!\\\\\\\\\\\\n)(?:;|^|&|\\\\|)\\\\s*)\\\\b(if|case|while|select|until|for)\\\\s\",\n            \"close\": \"(?:(?<!\\\\\\\\\\\\n)(?:;|^)\\\\s*)\\\\b(fi|esac|done)(?=;|\\\\s|$)\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"plugin_library\": \"bh_modules.bashsupport\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Shell-Unix-Generic\"],\n            \"enabled\": true\n        },\n        //Fish shell\n        {\n            \"name\": \"fish\",\n            \"open\": \"(?:(?<!\\\\\\\\\\\\n)(?:;|^|&|\\\\||and|or|not)\\\\s*)\\\\b(begin|if|while|for|switch|function)(?:;|\\\\s)\",\n            \"close\": \"(?:(?<!\\\\\\\\\\\\n)(?:;|^)\\\\s*)\\\\b(end)(?=;|\\\\s|$)\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"fish\"],\n            \"enabled\": true\n        },\n        // Lua\n        {\n            \"name\": \"lua\",\n            \"open\": \"(?:(?<=[\\\\s;])|(?<=^))(if|function|do|repeat)\\\\b\",\n            \"close\": \"(?:(?<=[\\\\s;])|(?<=^))(end|until)\\\\b\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"plugin_library\": \"bh_modules.luakeywords\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Lua\"],\n            \"enabled\": true\n        },\n        // LaTeX\n        {\n            \"name\": \"latexenv\",\n            \"open\": \"(\\\\\\\\begin{[^}]*})\",\n            \"close\": \"(\\\\\\\\end{[^}]*})\",\n            \"style\": \"tag\",\n            \"scope_exclude\": [\"comment\"],\n            \"plugin_library\": \"bh_modules.latexenvironments\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"LaTeX\", \"LaTeX (TikZ)\", \"knitr (Rnw)\"],\n            \"sub_bracket_search\": \"true\",\n            \"enabled\": true\n        },\n        // Pascal\n        {\n            \"name\": \"pascal\",\n            \"open\": \"(?:(?<=^)|(?<=[\\\\s;]))(try|(?<=\\\\=\\\\s)(?:class|record|interface)|begin|repeat)\\\\b\",\n            \"close\": \"(?<=[\\\\s;])(end(?=[;\\\\s])|until(?=\\\\s))\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"plugin_library\": \"bh_modules.pascalkeywords\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Pascal\"],\n            \"enabled\": true\n        },\n        // Elixir\n        {\n            \"name\": \"elixir\",\n            \"open\": \"\\\\b(do$|fn)\\\\b\",\n            \"close\": \"\\\\b(end)\\\\b\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"Elixir\"],\n            \"enabled\": true\n        },\n        // CMake\n        {\n            \"name\": \"cmake\",\n            \"open\": \"\\\\b(foreach|function|if|macro|while)\\\\b\",\n            \"close\": \"\\\\b(end(?:foreach|function|if|macro|while))\\\\b\",\n            \"style\": \"default\",\n            \"scope_exclude\": [\"-keyword.cmake\"],\n            \"plugin_library\": \"bh_modules.cmakekeywords\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"CMake\"],\n            \"enabled\": true\n        },\n        // SINUMERIK 840D SL G-Code\n        {\n            \"name\": \"s840d_gcode\",\n            \"open\": \"\\\\b(IF(?!.*GOTO)|FOR|WHILE|REPEAT(?!.*GOTO))\\\\b\",\n            \"close\": \"\\\\b(END(?:IF|FOR|WHILE)|UNTIL)\\\\b\",\n            \"style\": \"tag\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"plugin_library\": \"bh_modules.s840d_gcode\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"s840d_gcode\"],\n            \"enabled\": true\n        },\n        // SINUMERIK 840D SL RunMyHmi\n        {\n            \"name\": \"s840d_hmi\",\n            \"open\": \"^\\\\s*(//[ABGMS]|ACTIVATE|CHANGE|FOCUS|IF|LOAD|UNLOAD|OUTPUT|PRESS|SUB)\\\\b\",\n            \"close\": \"^\\\\s*(//END|END_(?:ACTIVATE|CHANGE|FOCUS|IF|LOAD|UNLOAD|OUTPUT|PRESS|SUB))\\\\b\",\n            \"style\": \"tag\",\n            \"scope_exclude\": [\"string\", \"comment\"],\n            \"plugin_library\": \"bh_modules.s840d_hmi\",\n            \"language_filter\": \"whitelist\",\n            \"language_list\": [\"s840d_hmi\"],\n            \"enabled\": true\n        }\n    ],\n\n    // user_scope_brackets and user_brackets will be appended\n    // to the tail of scope_brackets and brackets respectively\n    // If you have custom rules that you don't want to commit to\n    // the official list, and do not need to be inserted before\n    // one of the official definitions, this is a good place to\n    // put yours rules and keep in sync with the defaults.\n    // If you want to disable all gutter icons, please set icon\n    // to none for all region with user_bracket_styles\n    \"user_scope_brackets\": [],\n    \"user_brackets\": [],\n    \"user_bracket_styles\": {},\n\n    // Define region highlight styles\n    \"bracket_styles\": {\n        // \"default\" and \"unmatched\" styles are special\n        // styles. If they are not defined here,\n        // they will be generated internally with\n        // internal defaults.\n\n        // \"default\" style defines attributes that\n        // will be used for any style that does not\n        // explicitly define that attribute.  So if\n        // a style does not define a color, it will\n        // use the color from the \"default\" style.\n        \"default\": {\n            \"icon\": \"dot\",\n            // Support the old convention of \"brackethighlighter.default\"\n            // for themes that already provide something.\n            // As this has always been the only one we've provided\n            // by default, all the others will use region-ish colors.\n            \"color\": \"region.yellowish brackethighlighter.default\",\n            \"style\": \"underline\"\n        },\n\n        // This particular style is used to highlight\n        // unmatched bracket pairs.  It is a special\n        // style.\n        \"unmatched\": {\n            \"icon\": \"question\",\n            \"color\": \"region.redish\",\n            \"style\": \"outline\"\n        },\n        // User defined region styles\n        \"curly\": {\n            \"icon\": \"curly_bracket\",\n            \"color\": \"region.purplish\"\n            // \"style\": \"underline\"\n        },\n        \"round\": {\n            \"icon\": \"round_bracket\",\n            \"color\": \"region.yellowish\"\n            // \"style\": \"underline\"\n        },\n        \"square\": {\n            \"icon\": \"square_bracket\",\n            \"color\": \"region.bluish\"\n            // \"style\": \"underline\"\n        },\n        \"angle\": {\n            \"icon\": \"angle_bracket\",\n            \"color\": \"region.orangish\"\n            // \"style\": \"underline\"\n        },\n        \"tag\": {\n            \"icon\": \"tag\",\n            \"color\": \"region.orangish\"\n            // \"style\": \"underline\"\n        },\n        \"c_define\": {\n            \"icon\": \"hash\",\n            \"color\": \"region.yellowish\"\n            // \"style\": \"underline\"\n        },\n        \"single_quote\": {\n            \"icon\": \"single_quote\",\n            \"color\": \"region.greenish\"\n            // \"style\": \"underline\"\n        },\n        \"double_quote\": {\n            \"icon\": \"double_quote\",\n            \"color\": \"region.greenish\"\n            // \"style\": \"underline\"\n        },\n        \"regex\": {\n            \"icon\": \"star\",\n            \"color\": \"region.greenish\"\n            // \"style\": \"underline\"\n        }\n    }\n}\n",
+					"file": "/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 27151,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 30,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"brack",
+						"BracketHighlighter: Settings"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #include <…>"
+					],
+					[
+						"git brnach",
+						"Git: Change Branch"
+					],
+					[
+						"git",
+						"Git: Change Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"revert",
+						"File: Revert"
+					]
+				],
+				"width": 420.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"git status",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Workspace/dummy/bariumBoxer/source/boot/bootMain.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/Common.c",
+				"/C/Workspace/dummy/bariumBoxer/source/app/scsrDpllHandler.c",
+				"/C/Workspace/dummy/bariumBoxer/source/app/pwmTask.c",
+				"/C/Workspace/dummy/bariumBoxer/include/app/pwmTask.h",
+				"/C/Workspace/dummy/bariumBoxer/source/app/todTask.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/drivers/PWM_DEC.c",
+				"/C/Workspace/dummy/bariumBoxer/source/common/controllers/eepromCommandController.c",
+				"/C/Workspace/dummy/bariumBoxer/include/common/controllers/eepromCommandController.h",
+				"/C/Workspace/dummy/bariumBoxer/Makefile",
+				"/C/Workspace/dummy/bariumBoxer/source/common/drivers/I2CM.c",
+				"/C/Workspace/dummy/bariumBoxer/include/common/core_cmFunc.h",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/.android/adbkey.pub",
+				"/C/Users/akornish/.android/adbkey",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/AdbWinUsbApi.dll",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/mke2fs.conf",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/TestScsrGeneration/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/TOD.h",
+				"/C/Workspace/dummy/bariumBoxer/source/app/dpllStateMachine.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsHelper.c",
+				"/C/Workspace/bariumBoxer/include/unitTests/unitTestsHelper.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/EEPROM.h",
+				"/C/Workspace/bariumBoxer/source/boot/appLoader.c",
+				"/C/Workspace/bariumBoxer/scripts/host2XmlSequentialRevB.py",
+				"/C/Workspace/bariumBoxer/source/boot/bootMain.c",
+				"/C/Workspace/bariumBoxer/source/common/Common.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/EEPROM.c",
+				"/C/Workspace/bariumBoxer/source/app/configuration.c",
+				"/C/Workspace/bariumBoxer/source/app/hotfixLoader.c",
+				"/C/Workspace/bariumBoxer_old/bin/cm-revB/revBRam_host.xml",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/bariumBoxer/include/common/Target.h",
+				"/C/Workspace/bariumBoxer/include/boot/appLoader.h",
+				"/C/Workspace/bariumBoxer/source/common/startup_cmx.c",
+				"/C/Workspace/bariumBoxer/.gitignore",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_misaligned.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_wip_1.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_WIP.txt",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/0/hotfix.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/revB.mk",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/GPIO.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/GPIO.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/4.0.2 vs 4.0.1/scsr_4.0.1.csv",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary.txt",
+				"/C/Users/akornish/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/BK6CJDF3/scsr_compare_summary.txt",
+				"/C/Users/akornish/Downloads/monitoring_param_task_hotfix_2.c",
+				"/C/Workspace/bariumBoxer/include/common/irq/clockmatrix/rev-b/irqTable.h",
+				"/C/Workspace/bariumBoxer/data/clockmatrix/scsr/scsr.xlsm",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsInput.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR.h",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/Desktop/hotfix_andi.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioAlertOut.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioTodNotification.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsScsrTriggerRegister1.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.ld",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.ld",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.out",
+				"/C/Workspace/bariumBoxer/source/app/gpioTask.c",
+				"/C/Workspace/bariumBoxer/source/app/scsrMonTask.c",
+				"/C/Workspace/backup/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsDpllStateMachineMisc.c",
+				"/C/Workspace/bariumBoxer/hotfix/cmfwInfo/text.txt",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.mk",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.mk",
+				"/C/Users/akornish/Intel/Logs/IntelSerialIO.log",
+				"/C/Users/akornish/Desktop/hotfix_andi_final.c",
+				"/C/Workspace/bariumBoxer/hotfix/source/hotfix.c",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO_USER_CONTROL.h",
+				"/D/BitLocker Recovery Key A9D6BFCD-4C6E-439B-B2F2-B3521FED4649.TXT",
+				"/C/Workspace/bariumBoxer/include/common/core_cm3.h",
+				"/C/Workspace/bariumBoxer/hotfix/include/hotfix.h",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_TOD.h",
+				"/C/Workspace/bariumBoxer/source/app/todTask.c",
+				"/C/Workspace/bariumBoxer/source/app/pwmTask.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/PWM_ENC.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_PWM_ENC.h",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_DPLL.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/TOD.c",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.map",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsTod.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/OTP.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/6/monitoring_param_task_hotfix.c",
+				"/C/Workspace/bariumBoxer/Makefile",
+				"/C/Workspace/bariumBoxer/include/app/uartTask.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/bariumBoxer/hotfix/Makefile",
+				"/C/Users/akornish/Desktop/hotfix.c",
+				"/C/Users/akornish/Desktop/monitoring_param_task_hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/3/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/2-2/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/1-2/hotfix.c",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/bariumBoxer-doc/firmwareArchitecture/firmwareArchitecture.eap",
+				"/Z/vcheng/Clock Matrix/ClockMatrix_FPGA_Board_Methodology.txt",
+				"/C/Users/akornish/AppData/Local/Temp/dtemp-404ff7d8247502437-20.dop/input05.txt",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Output/akornish/Temporary/pdf_allin/pdf_allin_328F92BD/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/hostOsAdaptation.htm",
+				"/C/Workspace/documentation-collector/referenceManual/referenceManual/Content/servoManagementApi.htm",
+				"/C/SWSetup/SP79018/readme.txt",
+				"/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/DiffView/DiffView.sublime-settings",
+				"/C/Users/akornish/.ssh/id_rsa.pub",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Workspace/documentationCollector/integrationGuide/README.txt",
+				"/C/vbox/ubuntu_idt_clone/New Text Document.txt",
+				"/C/Users/akornish/AppData/Local/Google/Chrome/User Data/Local State",
+				"/C/Users/akornish/AppData/Local/Temp/Temp1_bstrlib-master.zip/bstrlib-master/bstrlib.txt",
+				"/C/Program Files/Git/etc/vimrc"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 134.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27151,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4295,
+										4326
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"edit_settings_other_view_id": 51,
+									"edit_settings_view": "base",
+									"origPos":
+									[
+										0.0,
+										1600.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1600.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 30,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										27,
+										27
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3,
+												4
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												28,
+												29
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"edit_settings_default": "{\n\n}\n",
+									"edit_settings_other_view_id": 50,
+									"edit_settings_view": "user",
+									"origPos":
+									[
+										0.0,
+										0.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,790,1914,234,2901",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"appm",
+						"source\\app\\appMain.c"
+					],
+					[
+						"I2C",
+						"source\\common\\drivers\\I2CM.c"
+					],
+					[
+						"makefile",
+						"Makefile"
+					],
+					[
+						"tod",
+						"include\\common\\drivers\\TOD.h"
+					],
+					[
+						"comm",
+						"source\\common\\Common.c"
+					],
+					[
+						"start",
+						"source\\common\\startup_cmx.c"
+					],
+					[
+						"scsr.",
+						"data\\clockmatrix\\scsr\\scsr.xlsm"
+					],
+					[
+						"GPIO.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"unitTestsGpioUserControl.c",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"boot",
+						"source\\boot\\bootMain.c"
+					],
+					[
+						"unitTestsGpioAlertOut.c",
+						"source\\unitTests\\unitTestsGpioAlertOut.c"
+					],
+					[
+						".txt",
+						"hotfix\\cmfwInfo\\text.txt"
+					],
+					[
+						".ld",
+						"build\\clockmatrix\\revB\\ramApp\\revBRamApp.ld"
+					],
+					[
+						"unitTestsGpioUserControl",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"gpio.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"hotfix.h",
+						"hotfix\\include\\hotfix.h"
+					],
+					[
+						"hotfix.c",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"hotfi",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"uarttask",
+						"include\\app\\uartTask.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 19,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/akornish/Documents/sublime/cm.sublime-workspace",
+			"/C/Users/akornish/Documents/sublime/1588_integration_guide.sublime-workspace"
+		]
+	}
+}

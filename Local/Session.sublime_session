@@ -1,0 +1,3225 @@
+{
+	"folder_history":
+	[
+		"/C/Workspace/dummy/bariumBoxer",
+		"/C/Workspace/bariumBoxer",
+		"/C/Workspace/documentation-collector/integrationGuide",
+		"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content"
+	],
+	"last_version": 3176,
+	"last_window_id": 18,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 497.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"hw",
+						"hwGpioPd"
+					],
+					[
+						"hwGpio",
+						"hwGpioPu"
+					],
+					[
+						"F",
+						"FALSE"
+					],
+					[
+						"code",
+						"codeComment"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #include <…>"
+					],
+					[
+						"git brnach",
+						"Git: Change Branch"
+					],
+					[
+						"git",
+						"Git: Change Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"revert",
+						"File: Revert"
+					]
+				],
+				"width": 420.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"git status",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/.android/adbkey.pub",
+				"/C/Users/akornish/.android/adbkey",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/AdbWinUsbApi.dll",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/mke2fs.conf",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/TestScsrGeneration/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/TOD.h",
+				"/C/Workspace/dummy/bariumBoxer/source/app/dpllStateMachine.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsHelper.c",
+				"/C/Workspace/bariumBoxer/include/unitTests/unitTestsHelper.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/EEPROM.h",
+				"/C/Workspace/bariumBoxer/source/boot/appLoader.c",
+				"/C/Workspace/bariumBoxer/scripts/host2XmlSequentialRevB.py",
+				"/C/Workspace/bariumBoxer/source/boot/bootMain.c",
+				"/C/Workspace/bariumBoxer/source/common/Common.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/EEPROM.c",
+				"/C/Workspace/bariumBoxer/source/app/configuration.c",
+				"/C/Workspace/bariumBoxer/source/app/hotfixLoader.c",
+				"/C/Workspace/bariumBoxer_old/bin/cm-revB/revBRam_host.xml",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/bariumBoxer/include/common/Target.h",
+				"/C/Workspace/bariumBoxer/include/boot/appLoader.h",
+				"/C/Workspace/bariumBoxer/source/common/startup_cmx.c",
+				"/C/Workspace/bariumBoxer/.gitignore",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_misaligned.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_wip_1.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_WIP.txt",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/0/hotfix.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/revB.mk",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/GPIO.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/GPIO.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/4.0.2 vs 4.0.1/scsr_4.0.1.csv",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary.txt",
+				"/C/Users/akornish/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/BK6CJDF3/scsr_compare_summary.txt",
+				"/C/Users/akornish/Downloads/monitoring_param_task_hotfix_2.c",
+				"/C/Workspace/bariumBoxer/include/common/irq/clockmatrix/rev-b/irqTable.h",
+				"/C/Workspace/bariumBoxer/data/clockmatrix/scsr/scsr.xlsm",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsInput.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR.h",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/Desktop/hotfix_andi.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioAlertOut.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioTodNotification.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsScsrTriggerRegister1.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.ld",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.ld",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.out",
+				"/C/Workspace/bariumBoxer/source/app/gpioTask.c",
+				"/C/Workspace/bariumBoxer/source/app/scsrMonTask.c",
+				"/C/Workspace/backup/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsDpllStateMachineMisc.c",
+				"/C/Workspace/bariumBoxer/hotfix/cmfwInfo/text.txt",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.mk",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.mk",
+				"/C/Users/akornish/Intel/Logs/IntelSerialIO.log",
+				"/C/Users/akornish/Desktop/hotfix_andi_final.c",
+				"/C/Workspace/bariumBoxer/hotfix/source/hotfix.c",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO_USER_CONTROL.h",
+				"/D/BitLocker Recovery Key A9D6BFCD-4C6E-439B-B2F2-B3521FED4649.TXT",
+				"/C/Workspace/bariumBoxer/include/common/core_cm3.h",
+				"/C/Workspace/bariumBoxer/hotfix/include/hotfix.h",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_TOD.h",
+				"/C/Workspace/bariumBoxer/source/app/todTask.c",
+				"/C/Workspace/bariumBoxer/source/app/pwmTask.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/PWM_ENC.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_PWM_ENC.h",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_DPLL.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/TOD.c",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.map",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsTod.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/OTP.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/6/monitoring_param_task_hotfix.c",
+				"/C/Workspace/bariumBoxer/Makefile",
+				"/C/Workspace/bariumBoxer/include/app/uartTask.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/bariumBoxer/hotfix/Makefile",
+				"/C/Users/akornish/Desktop/hotfix.c",
+				"/C/Users/akornish/Desktop/monitoring_param_task_hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/3/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/2-2/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/1-2/hotfix.c",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/bariumBoxer-doc/firmwareArchitecture/firmwareArchitecture.eap",
+				"/Z/vcheng/Clock Matrix/ClockMatrix_FPGA_Board_Methodology.txt",
+				"/C/Users/akornish/AppData/Local/Temp/dtemp-404ff7d8247502437-20.dop/input05.txt",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Output/akornish/Temporary/pdf_allin/pdf_allin_328F92BD/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/hostOsAdaptation.htm",
+				"/C/Workspace/documentation-collector/referenceManual/referenceManual/Content/servoManagementApi.htm",
+				"/C/SWSetup/SP79018/readme.txt",
+				"/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/DiffView/DiffView.sublime-settings",
+				"/C/Users/akornish/.ssh/id_rsa.pub",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Workspace/documentationCollector/integrationGuide/README.txt",
+				"/C/vbox/ubuntu_idt_clone/New Text Document.txt",
+				"/C/Users/akornish/AppData/Local/Google/Chrome/User Data/Local State",
+				"/C/Users/akornish/AppData/Local/Temp/Temp1_bstrlib-master.zip/bstrlib-master/bstrlib.txt",
+				"/C/Program Files/Git/etc/vimrc"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 134.0,
+				"where_history":
+				[
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.h",
+					"<open folders>",
+					"<open folders>,*.h",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.h",
+					"<open folders>, *.h",
+					"<open folders>,*.h",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.c,*.h",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.ld",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"C:\\Workspace\\bariumBoxer\\source",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<current file>",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"PRIMASK",
+					"INCLUDE",
+					"CMFW_RELEASE_H_PATH",
+					"MIF_EXTERNAL_OUTPUT_FILES",
+					"HOTFIXDIR",
+					"SCSR_OTP_EEPROM_PWM_BUFF_0",
+					"SCSR_OTP_EEPROM_PWM_BUFF",
+					"Read_8_SCSR_EEPROM_SIZE_bytes",
+					"Read_7_SCSR_EEPROM_I2C_ADDR_i2c_addr",
+					"EEPROM_I2C_ADDR",
+					"tod_read_selection",
+					"pwm_decoder_index",
+					"encoder_id",
+					"ppsEnable",
+					"generate_pps",
+					"E_todIndex",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_RESET",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_MODE",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_LSB",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_MSB",
+					"SCSR_PWM_ENCODER_CNFG_PPS_SEL",
+					"tod_sel",
+					".globalSyncEn",
+					"dpllSmSetGlobalSyncEn",
+					"global_sync_en",
+					"get64Bit",
+					"SCSR_EEPROM_CONFIG_SELECT",
+					"SCSR_EEPROM_SCSR_CONFIG_SELECT",
+					"SCSR_OTP_SCSR_CONFIG_SELECT",
+					"T_OTP_ErrorCode",
+					"otp",
+					"SCSR_OTP_STATUS__0",
+					"OUTPUT_TDC_DEFAULT_ALIGNED_THR",
+					"align_threshold_count",
+					"xml",
+					"appLoaderFindHeaderInEeprom",
+					"EepromConfigFindHeader",
+					"CmnMemcmp",
+					"EeFindTagInEeprom",
+					"loadConfi",
+					"configLoad",
+					"eeAddr",
+					"EeFindDeviceAndTag",
+					"EeFindTagInEeprom",
+					"EepromConfigFindHeader",
+					"EEPROM_ADDR_STEP",
+					"EepromConfigFindHeader",
+					"appLoaderFindHeaderInEeprom",
+					"eepromAddress",
+					"appLoaderFindHeaderInEeprom",
+					"startEepromAddr",
+					"E_Boot_Stat_Eeprom_Found",
+					"appLoaderFindHeaderInEeprom",
+					"EEPROM_ADDR_STEP",
+					"SCSR_GPIO_TOD_TRIG",
+					"E_gpioFunction_inputClock",
+					"SCSR_DPLL_MANU_REF_CFG",
+					"SCSR_END",
+					"gpioSetPullDown",
+					"gpioSetPullUp",
+					"pd",
+					"stackless",
+					"pFunc",
+					"Reset_Handler",
+					"__StackTop",
+					"allTestsAreGood",
+					"T_validateGpioPuPdBit",
+					"hwGpioPu",
+					"else",
+					"scsrPuPdInitial",
+					"gpioSetMode",
+					"Write_1_SCSR_GPIO_CTRL",
+					"hwGpioMode",
+					"TEST_ACTUAL",
+					"hwGpioMode",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlGetMaskedGpioInput",
+					"gpioUserControlEnable",
+					"gpioUserControlInputBitfield",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlGetEnableBit",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlSetConfig",
+					"T_validateGpioUserControlGetEnableBit",
+					"T_validateGpioUserControlGetLevel",
+					"TEST_EXPECTED_ACTUAL_ARRAY_SIZE",
+					"T_validateGpioUserControlSetEnableBit",
+					"TEST_EXPECTED_ACTUAL_ARRAY_SIZE",
+					"testInputSelectGpioInputClock",
+					"Pretest",
+					"validateGpioUserControl",
+					"VALIDATE_GPIO_USER_CONTROL",
+					"GPIO",
+					"pd",
+					"hwGpioDirection",
+					"pd",
+					"&&",
+					"gpioUserControlEnable",
+					" testInputSelectGpioInputClock",
+					"scsrEnable[ TEST_EXPECTED ]         = TRUE",
+					"E_gpioFunction_userControl",
+					"testGpioUserControlGpioFunctionChanged",
+					"E_gpioFunction_losIndicator",
+					"testGpioUserControlGpioFunctionChanged",
+					"gpioSetMode",
+					"cmos_od_mode",
+					"testGpioUserControlSetConfigOutEnable",
+					"E_gpioDir_in",
+					"E_gpioDir_out",
+					"gpioSetDirection",
+					"E_gpioDir_in",
+					"gpioSetDirection",
+					"E_gpioDir_in",
+					"testGpioUserControlSetConfigOutEnable",
+					"unitTestSetGpioUserControlEnable",
+					"testGpioUserControlUpdateScsrStatus",
+					"cmos_od_mode",
+					"testGpioUserControlUpdateScsrStatus",
+					"testGpioUserControlSetEnableBit",
+					"testGpioUserControlInEnabledChangeGpDcIn",
+					"testGpioUserControlDisabledCleanup",
+					"scsrEnable[ TEST_EXPECTED ]",
+					"testGpioUserControlGpioFunctionChanged",
+					"E_gpioMode_gp",
+					"testGpioUserControlUpdateScsrStatus",
+					"TEST_EXPECTED",
+					"testGpioUserControlGetMaskedGpioOutput",
+					"testGpioUserControlSetEnableBit"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cmosOdMode",
+					"1",
+					"0",
+					"Read_1_SCSR_GPIO_CTRL_gpio_function_en",
+					"Read_1_SCSR_GPIO_CTRL_gpio_control_dir",
+					"Write_1_SCSR_GPIO_CTRL_gpio_control_dir",
+					"Write_1_SCSR_GPIO_CTRL_gpio_function_en",
+					"E_gpioDir_in",
+					"<pre class=\"codeComment\">",
+					"timestamping",
+					"Returns",
+					"/*",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"I2C",
+						"source\\common\\drivers\\I2CM.c"
+					],
+					[
+						"makefile",
+						"Makefile"
+					],
+					[
+						"tod",
+						"include\\common\\drivers\\TOD.h"
+					],
+					[
+						"comm",
+						"source\\common\\Common.c"
+					],
+					[
+						"start",
+						"source\\common\\startup_cmx.c"
+					],
+					[
+						"scsr.",
+						"data\\clockmatrix\\scsr\\scsr.xlsm"
+					],
+					[
+						"GPIO.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"unitTestsGpioUserControl.c",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"boot",
+						"source\\boot\\bootMain.c"
+					],
+					[
+						"unitTestsGpioAlertOut.c",
+						"source\\unitTests\\unitTestsGpioAlertOut.c"
+					],
+					[
+						".txt",
+						"hotfix\\cmfwInfo\\text.txt"
+					],
+					[
+						".ld",
+						"build\\clockmatrix\\revB\\ramApp\\revBRamApp.ld"
+					],
+					[
+						"unitTestsGpioUserControl",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"gpio.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"hotfix.h",
+						"hotfix\\include\\hotfix.h"
+					],
+					[
+						"hotfix.c",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"hotfi",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"uarttask",
+						"include\\app\\uartTask.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 971.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"hw",
+						"hwGpioPd"
+					],
+					[
+						"hwGpio",
+						"hwGpioPu"
+					],
+					[
+						"F",
+						"FALSE"
+					],
+					[
+						"code",
+						"codeComment"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/boot/bootMain.c",
+					"settings":
+					{
+						"buffer_size": 25492,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/app/appMain.c",
+					"settings":
+					{
+						"buffer_size": 16412,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/common/Common.c",
+					"settings":
+					{
+						"buffer_size": 17859,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/app/scsrDpllHandler.c",
+					"settings":
+					{
+						"buffer_size": 71198,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/app/pwmTask.c",
+					"settings":
+					{
+						"buffer_size": 37608,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/include/app/pwmTask.h",
+					"settings":
+					{
+						"buffer_size": 9004,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/app/todTask.c",
+					"settings":
+					{
+						"buffer_size": 20170,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/common/drivers/PWM_DEC.c",
+					"settings":
+					{
+						"buffer_size": 7676,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/common/controllers/eepromCommandController.c",
+					"settings":
+					{
+						"buffer_size": 5666,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/include/common/controllers/eepromCommandController.h",
+					"settings":
+					{
+						"buffer_size": 3031,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/Makefile",
+					"settings":
+					{
+						"buffer_size": 9949,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/source/common/drivers/I2CM.c",
+					"settings":
+					{
+						"buffer_size": 19083,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 965 files for \"PRIMASK\"\n\nC:\\Workspace\\dummy\\bariumBoxer\\data\\clockmatrix\\rev-b\\hwcsr\\~$csr.xlsm:\n    ERROR: Unable to open file\n\nC:\\Workspace\\dummy\\bariumBoxer\\data\\clockmatrix\\scsr\\~$scsr.xlsm:\n    ERROR: Unable to open file\n\nC:\\Workspace\\dummy\\bariumBoxer\\include\\common\\core_cmFunc.h:\n  179      \\return               Priority Mask value\n  180   */\n  181: __STATIC_INLINE uint32_t __get_PRIMASK(void)\n  182  {\n  183:   register uint32_t __regPriMask         __ASM(\"primask\");\n  184:   return(__regPriMask);\n  185  }\n  186  \n  ...\n  190      This function assigns the given value to the Priority Mask Register.\n  191  \n  192:     \\param [in]    priMask  Priority Mask\n  193   */\n  194: __STATIC_INLINE void __set_PRIMASK(uint32_t priMask)\n  195  {\n  196:   register uint32_t __regPriMask         __ASM(\"primask\");\n  197:   __regPriMask = (priMask);\n  198  }\n  199  \n  ...\n  478      \\return               Priority Mask value\n  479   */\n  480: __attribute__( ( always_inline ) ) __STATIC_INLINE uint32_t __get_PRIMASK(void)\n  481  {\n  482    uint32_t result;\n  483  \n  484:   __ASM volatile (\"MRS %0, primask\" : \"=r\" (result) );\n  485    return(result);\n  486  }\n  ...\n  491      This function assigns the given value to the Priority Mask Register.\n  492  \n  493:     \\param [in]    priMask  Priority Mask\n  494   */\n  495: __attribute__( ( always_inline ) ) __STATIC_INLINE void __set_PRIMASK(uint32_t priMask)\n  496  {\n  497:   __ASM volatile (\"MSR primask, %0\" : : \"r\" (priMask) : \"memory\");\n  498  }\n  499  \n\nC:\\Workspace\\dummy\\bariumBoxer\\source\\common\\Common.c:\n  207  inline BOOL CmnAreInterruptsEnabled()\n  208  {\n  209:   return (!__get_PRIMASK());\n  210  }\n  211  \n\n19 matches across 2 files\n",
+					"settings":
+					{
+						"buffer_size": 1713,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Workspace/dummy/bariumBoxer/include/common/core_cmFunc.h",
+					"settings":
+					{
+						"buffer_size": 17660,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows",
+						"name": "BracketHighlighter - Quick Start",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #include <…>"
+					],
+					[
+						"git brnach",
+						"Git: Change Branch"
+					],
+					[
+						"git",
+						"Git: Change Branch"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"revert",
+						"File: Revert"
+					]
+				],
+				"width": 420.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"git status",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Workspace/dummy/bariumBoxer",
+				"/C/Workspace/dummy/bariumBoxer/source",
+				"/C/Workspace/dummy/bariumBoxer/source/common",
+				"/C/Workspace/dummy/bariumBoxer/source/common/drivers"
+			],
+			"file_history":
+			[
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/.android/adbkey.pub",
+				"/C/Users/akornish/.android/adbkey",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/AdbWinUsbApi.dll",
+				"/C/Users/akornish/Downloads/platform-tools_r28.0.0-windows/platform-tools/mke2fs.conf",
+				"/C/Workspace/dummy/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/TestScsrGeneration/expectedScsrHeader.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/dummy/bariumBoxer/include/common/drivers/TOD.h",
+				"/C/Workspace/dummy/bariumBoxer/source/app/dpllStateMachine.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsHelper.c",
+				"/C/Workspace/bariumBoxer/include/unitTests/unitTestsHelper.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/EEPROM.h",
+				"/C/Workspace/bariumBoxer/source/boot/appLoader.c",
+				"/C/Workspace/bariumBoxer/scripts/host2XmlSequentialRevB.py",
+				"/C/Workspace/bariumBoxer/source/boot/bootMain.c",
+				"/C/Workspace/bariumBoxer/source/common/Common.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/EEPROM.c",
+				"/C/Workspace/bariumBoxer/source/app/configuration.c",
+				"/C/Workspace/bariumBoxer/source/app/hotfixLoader.c",
+				"/C/Workspace/bariumBoxer_old/bin/cm-revB/revBRam_host.xml",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedScsrHeader.h",
+				"/C/Workspace/bariumBoxer/include/common/Target.h",
+				"/C/Workspace/bariumBoxer/include/boot/appLoader.h",
+				"/C/Workspace/bariumBoxer/source/common/startup_cmx.c",
+				"/C/Workspace/bariumBoxer/.gitignore",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_misaligned.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_wip_1.txt",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary_WIP.txt",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/0/hotfix.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/revB.mk",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/GPIO.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/GPIO.c",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/4.0.2 vs 4.0.1/scsr_4.0.1.csv",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/scsr_4_0_vs_4_5/scsr_compare_summary.txt",
+				"/C/Users/akornish/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/BK6CJDF3/scsr_compare_summary.txt",
+				"/C/Users/akornish/Downloads/monitoring_param_task_hotfix_2.c",
+				"/C/Workspace/bariumBoxer/include/common/irq/clockmatrix/rev-b/irqTable.h",
+				"/C/Workspace/bariumBoxer/data/clockmatrix/scsr/scsr.xlsm",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsInput.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR.h",
+				"/C/Workspace/bariumBoxer/scripts/repoScripts/python/clockMatrix/csrXmlParse/csr/tests/data/expectedCsrHeader.h",
+				"/C/Users/akornish/Desktop/hotfix_andi.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioAlertOut.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsGpioTodNotification.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsScsrTriggerRegister1.c",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.ld",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.ld",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.out",
+				"/C/Workspace/bariumBoxer/source/app/gpioTask.c",
+				"/C/Workspace/bariumBoxer/source/app/scsrMonTask.c",
+				"/C/Workspace/backup/bariumBoxer/source/unitTests/unitTestsGpioUserControl.c",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsDpllStateMachineMisc.c",
+				"/C/Workspace/bariumBoxer/hotfix/cmfwInfo/text.txt",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/revB/ramApp/revBRamApp.mk",
+				"/C/Workspace/bariumBoxer/build/clockmatrix/fpga/romImage/fpgaRomImage.mk",
+				"/C/Users/akornish/Intel/Logs/IntelSerialIO.log",
+				"/C/Users/akornish/Desktop/hotfix_andi_final.c",
+				"/C/Workspace/bariumBoxer/hotfix/source/hotfix.c",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_GPIO_USER_CONTROL.h",
+				"/D/BitLocker Recovery Key A9D6BFCD-4C6E-439B-B2F2-B3521FED4649.TXT",
+				"/C/Workspace/bariumBoxer/include/common/core_cm3.h",
+				"/C/Workspace/bariumBoxer/hotfix/include/hotfix.h",
+				"/C/Workspace/bariumBoxer/include/common/scsr/clockmatrix/rev-b/SCSR_TOD.h",
+				"/C/Workspace/bariumBoxer/source/app/todTask.c",
+				"/C/Workspace/bariumBoxer/source/app/pwmTask.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/PWM_ENC.c",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_PWM_ENC.h",
+				"/C/Workspace/bariumBoxer/include/common/csr/clockmatrix/rev-b/CSR_DPLL.h",
+				"/C/Workspace/bariumBoxer/source/common/drivers/TOD.c",
+				"/C/Workspace/bariumBoxer/bin/cm-revB/revBRam.map",
+				"/C/Workspace/bariumBoxer/source/unitTests/unitTestsTod.c",
+				"/C/Workspace/bariumBoxer/source/common/drivers/OTP.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/6/monitoring_param_task_hotfix.c",
+				"/C/Workspace/bariumBoxer/Makefile",
+				"/C/Workspace/bariumBoxer/include/app/uartTask.h",
+				"/C/Workspace/bariumBoxer/include/common/drivers/OTP.h",
+				"/C/Workspace/bariumBoxer/hotfix/Makefile",
+				"/C/Users/akornish/Desktop/hotfix.c",
+				"/C/Users/akornish/Desktop/monitoring_param_task_hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/3/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/2-2/hotfix.c",
+				"/C/Users/akornish/AppData/Local/Temp/OneNote/16.0/NT/1-2/hotfix.c",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Users/akornish/Documents/design/Clock_Matrix/bariumBoxer-doc/firmwareArchitecture/firmwareArchitecture.eap",
+				"/Z/vcheng/Clock Matrix/ClockMatrix_FPGA_Board_Methodology.txt",
+				"/C/Users/akornish/AppData/Local/Temp/dtemp-404ff7d8247502437-20.dop/input05.txt",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Output/akornish/Temporary/pdf_allin/pdf_allin_328F92BD/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentation-collector/integrationGuide/integrationGuide/Content/hostOsAdaptation.htm",
+				"/C/Workspace/documentation-collector/referenceManual/referenceManual/Content/servoManagementApi.htm",
+				"/C/SWSetup/SP79018/readme.txt",
+				"/C/Users/akornish/AppData/Roaming/Sublime Text 3/Packages/DiffView/DiffView.sublime-settings",
+				"/C/Users/akornish/.ssh/id_rsa.pub",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/Resources/Stylesheets/printStyles.css",
+				"/C/Workspace/documentationCollector/integrationGuide/integrationGuide/Content/timestampDeviceAdaptor.htm",
+				"/C/Workspace/documentationCollector/integrationGuide/README.txt",
+				"/C/vbox/ubuntu_idt_clone/New Text Document.txt",
+				"/C/Users/akornish/AppData/Local/Google/Chrome/User Data/Local State",
+				"/C/Users/akornish/AppData/Local/Temp/Temp1_bstrlib-master.zip/bstrlib-master/bstrlib.txt",
+				"/C/Program Files/Git/etc/vimrc"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 134.0,
+				"where_history":
+				[
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.h",
+					"<open folders>",
+					"<open folders>,*.h",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.h",
+					"<open folders>, *.h",
+					"<open folders>,*.h",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>,*.c,*.h",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.ld",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"C:\\Workspace\\bariumBoxer\\source",
+					"<open folders>",
+					"<open folders>,*.c",
+					"<open folders>",
+					"<current file>",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"PRIMASK",
+					"INCLUDE",
+					"CMFW_RELEASE_H_PATH",
+					"MIF_EXTERNAL_OUTPUT_FILES",
+					"HOTFIXDIR",
+					"SCSR_OTP_EEPROM_PWM_BUFF_0",
+					"SCSR_OTP_EEPROM_PWM_BUFF",
+					"Read_8_SCSR_EEPROM_SIZE_bytes",
+					"Read_7_SCSR_EEPROM_I2C_ADDR_i2c_addr",
+					"EEPROM_I2C_ADDR",
+					"tod_read_selection",
+					"pwm_decoder_index",
+					"encoder_id",
+					"ppsEnable",
+					"generate_pps",
+					"E_todIndex",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_RESET",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_MODE",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_LSB",
+					"SCSR_PWM_ENCODER_CNFG_tod_sel_MSB",
+					"SCSR_PWM_ENCODER_CNFG_PPS_SEL",
+					"tod_sel",
+					".globalSyncEn",
+					"dpllSmSetGlobalSyncEn",
+					"global_sync_en",
+					"get64Bit",
+					"SCSR_EEPROM_CONFIG_SELECT",
+					"SCSR_EEPROM_SCSR_CONFIG_SELECT",
+					"SCSR_OTP_SCSR_CONFIG_SELECT",
+					"T_OTP_ErrorCode",
+					"otp",
+					"SCSR_OTP_STATUS__0",
+					"OUTPUT_TDC_DEFAULT_ALIGNED_THR",
+					"align_threshold_count",
+					"xml",
+					"appLoaderFindHeaderInEeprom",
+					"EepromConfigFindHeader",
+					"CmnMemcmp",
+					"EeFindTagInEeprom",
+					"loadConfi",
+					"configLoad",
+					"eeAddr",
+					"EeFindDeviceAndTag",
+					"EeFindTagInEeprom",
+					"EepromConfigFindHeader",
+					"EEPROM_ADDR_STEP",
+					"EepromConfigFindHeader",
+					"appLoaderFindHeaderInEeprom",
+					"eepromAddress",
+					"appLoaderFindHeaderInEeprom",
+					"startEepromAddr",
+					"E_Boot_Stat_Eeprom_Found",
+					"appLoaderFindHeaderInEeprom",
+					"EEPROM_ADDR_STEP",
+					"SCSR_GPIO_TOD_TRIG",
+					"E_gpioFunction_inputClock",
+					"SCSR_DPLL_MANU_REF_CFG",
+					"SCSR_END",
+					"gpioSetPullDown",
+					"gpioSetPullUp",
+					"pd",
+					"stackless",
+					"pFunc",
+					"Reset_Handler",
+					"__StackTop",
+					"allTestsAreGood",
+					"T_validateGpioPuPdBit",
+					"hwGpioPu",
+					"else",
+					"scsrPuPdInitial",
+					"gpioSetMode",
+					"Write_1_SCSR_GPIO_CTRL",
+					"hwGpioMode",
+					"TEST_ACTUAL",
+					"hwGpioMode",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlGetMaskedGpioInput",
+					"gpioUserControlEnable",
+					"gpioUserControlInputBitfield",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlGetEnableBit",
+					"T_validateGpioUserControlSetEnableBit",
+					"T_validateGpioUserControlSetConfig",
+					"T_validateGpioUserControlGetEnableBit",
+					"T_validateGpioUserControlGetLevel",
+					"TEST_EXPECTED_ACTUAL_ARRAY_SIZE",
+					"T_validateGpioUserControlSetEnableBit",
+					"TEST_EXPECTED_ACTUAL_ARRAY_SIZE",
+					"testInputSelectGpioInputClock",
+					"Pretest",
+					"validateGpioUserControl",
+					"VALIDATE_GPIO_USER_CONTROL",
+					"GPIO",
+					"pd",
+					"hwGpioDirection",
+					"pd",
+					"&&",
+					"gpioUserControlEnable",
+					" testInputSelectGpioInputClock",
+					"scsrEnable[ TEST_EXPECTED ]         = TRUE",
+					"E_gpioFunction_userControl",
+					"testGpioUserControlGpioFunctionChanged",
+					"E_gpioFunction_losIndicator",
+					"testGpioUserControlGpioFunctionChanged",
+					"gpioSetMode",
+					"cmos_od_mode",
+					"testGpioUserControlSetConfigOutEnable",
+					"E_gpioDir_in",
+					"E_gpioDir_out",
+					"gpioSetDirection",
+					"E_gpioDir_in",
+					"gpioSetDirection",
+					"E_gpioDir_in",
+					"testGpioUserControlSetConfigOutEnable",
+					"unitTestSetGpioUserControlEnable",
+					"testGpioUserControlUpdateScsrStatus",
+					"cmos_od_mode",
+					"testGpioUserControlUpdateScsrStatus",
+					"testGpioUserControlSetEnableBit",
+					"testGpioUserControlInEnabledChangeGpDcIn",
+					"testGpioUserControlDisabledCleanup",
+					"scsrEnable[ TEST_EXPECTED ]",
+					"testGpioUserControlGpioFunctionChanged",
+					"E_gpioMode_gp",
+					"testGpioUserControlUpdateScsrStatus",
+					"TEST_EXPECTED",
+					"testGpioUserControlGetMaskedGpioOutput",
+					"testGpioUserControlSetEnableBit"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cmosOdMode",
+					"1",
+					"0",
+					"Read_1_SCSR_GPIO_CTRL_gpio_function_en",
+					"Read_1_SCSR_GPIO_CTRL_gpio_control_dir",
+					"Write_1_SCSR_GPIO_CTRL_gpio_control_dir",
+					"Write_1_SCSR_GPIO_CTRL_gpio_function_en",
+					"E_gpioDir_in",
+					"<pre class=\"codeComment\">",
+					"timestamping",
+					"Returns",
+					"/*",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/boot/bootMain.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25492,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1066,
+										1066
+									]
+								],
+								"settings":
+								{
+									"origPos":
+									[
+										0.0,
+										0.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/app/appMain.c",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 16412,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"origPos":
+									[
+										0.0,
+										3407.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3785.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/common/Common.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17859,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10939,
+										10939
+									]
+								],
+								"settings":
+								{
+									"origPos":
+									[
+										0.0,
+										8609.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9565.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/app/scsrDpllHandler.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 71198,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"origPos":
+									[
+										0.0,
+										8883.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8883.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/app/pwmTask.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 37608,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"origPos":
+									[
+										0.0,
+										9083.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10091.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Workspace/dummy/bariumBoxer/include/app/pwmTask.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9004,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2998,
+										2998
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+											"1":
+											[
+												1686,
+												1692
+											]
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"origPos":
+									[
+										0.0,
+										1203.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 123.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/app/todTask.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 20170,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6328,
+										6328
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												6783,
+												6784
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												5588,
+												5589
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												6467,
+												6468
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												6180,
+												6181
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"origPos":
+									[
+										0.0,
+										3383.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3383.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/common/drivers/PWM_DEC.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7676,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3091,
+										3091
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3094,
+												3095
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												3087,
+												3088
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3094,
+												3095
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												3087,
+												3088
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"origPos":
+									[
+										0.0,
+										1432.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1432.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/common/controllers/eepromCommandController.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5666,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4877,
+										4877
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												5089,
+												5090
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												4524,
+												4525
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"origPos":
+									[
+										0.0,
+										1479.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1643.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Workspace/dummy/bariumBoxer/include/common/controllers/eepromCommandController.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3031,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1968,
+										1968
+									]
+								],
+								"settings":
+								{
+									"origPos":
+									[
+										0.0,
+										489.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 543.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/Workspace/dummy/bariumBoxer/Makefile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9949,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"origPos":
+									[
+										0.0,
+										2939.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3265.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/Workspace/dummy/bariumBoxer/source/common/drivers/I2CM.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19083,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7949,
+												7950
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7353,
+												7354
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7955,
+												7956
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7278,
+												7279
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"origPos":
+									[
+										0.0,
+										3675.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4083.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1713,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												400,
+												407
+											],
+											[
+												455,
+												462
+											],
+											[
+												478,
+												485
+											],
+											[
+												510,
+												517
+											],
+											[
+												657,
+												664
+											],
+											[
+												725,
+												732
+											],
+											[
+												742,
+												749
+											],
+											[
+												792,
+												799
+											],
+											[
+												815,
+												822
+											],
+											[
+												840,
+												847
+											],
+											[
+												851,
+												858
+											],
+											[
+												1021,
+												1028
+											],
+											[
+												1112,
+												1119
+											],
+											[
+												1294,
+												1301
+											],
+											[
+												1397,
+												1404
+											],
+											[
+												1414,
+												1421
+											],
+											[
+												1462,
+												1469
+											],
+											[
+												1484,
+												1491
+											],
+											[
+												1657,
+												1664
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										404,
+										404
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"default_dir": "C:\\Workspace\\dummy\\bariumBoxer\\source\\common\\drivers",
+									"detect_indentation": false,
+									"line_numbers": false,
+									"origPos":
+									[
+										0.0,
+										0.0
+									],
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syncScroll": false,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/Workspace/dummy/bariumBoxer/include/common/core_cmFunc.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17660,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5405,
+										5405
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"origPos":
+									[
+										0.0,
+										0.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"default_dir": "C:\\Workspace\\dummy\\bariumBoxer",
+									"gutter": false,
+									"origPos":
+									[
+										0.0,
+										0.0
+									],
+									"syncScroll": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,610,1839,54,2826",
+			"project": "cm.sublime-project",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"I2C",
+						"source\\common\\drivers\\I2CM.c"
+					],
+					[
+						"makefile",
+						"Makefile"
+					],
+					[
+						"tod",
+						"include\\common\\drivers\\TOD.h"
+					],
+					[
+						"comm",
+						"source\\common\\Common.c"
+					],
+					[
+						"start",
+						"source\\common\\startup_cmx.c"
+					],
+					[
+						"scsr.",
+						"data\\clockmatrix\\scsr\\scsr.xlsm"
+					],
+					[
+						"GPIO.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"unitTestsGpioUserControl.c",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"boot",
+						"source\\boot\\bootMain.c"
+					],
+					[
+						"unitTestsGpioAlertOut.c",
+						"source\\unitTests\\unitTestsGpioAlertOut.c"
+					],
+					[
+						".txt",
+						"hotfix\\cmfwInfo\\text.txt"
+					],
+					[
+						".ld",
+						"build\\clockmatrix\\revB\\ramApp\\revBRamApp.ld"
+					],
+					[
+						"unitTestsGpioUserControl",
+						"source\\unitTests\\unitTestsGpioUserControl.c"
+					],
+					[
+						"gpio.c",
+						"source\\common\\drivers\\GPIO.c"
+					],
+					[
+						"hotfix.h",
+						"hotfix\\include\\hotfix.h"
+					],
+					[
+						"hotfix.c",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"hotfi",
+						"hotfix\\source\\hotfix.c"
+					],
+					[
+						"uarttask",
+						"include\\app\\uartTask.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 10,
+			"workspace_name": "/C/Users/akornish/Documents/sublime/cm.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/akornish/Documents/sublime/cm.sublime-workspace",
+			"/C/Users/akornish/Documents/sublime/1588_integration_guide.sublime-workspace"
+		]
+	}
+}
